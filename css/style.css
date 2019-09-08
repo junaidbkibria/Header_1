@@ -1,0 +1,72 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.Header{
+	/*width: 100%;*/
+	background-color: #232F3E;
+	height: 100px;
+	
+}
+.wrapper1{
+	height: 40px;
+	overflow: hidden;
+	width:100%;
+	/*margin:0 auto;*/
+}
+.logo{
+	float: left;
+	width: 8%;
+	padding: 10px 10px;
+}
+.searchBar{
+	float: left;
+	width:70%;
+	padding: 10px 20px;
+	/*position: absolute;
+    top: 355px;
+    left: 575px;*/
+}
+.searchBar input {
+     height: 29px;
+     width: 95%;
+}
+.ShopTodaysDeals a{
+	width: 10%;
+	float :left;
+	text-decoration: none ;
+	color: white;
+	padding-left: 130px;
+	
+}
+.wrapper2{
+	overflow: hidden;
+	width: 100%;
+	height: 60px;
+
+	}
+.shiptobd{
+	float: left;
+	width: 8%;
+	padding: 10px 10px;
+}
+.menu ul li{
+	width: 50%;
+}
+.menu ul li a{
+	/*width: 60%;*/
+	float:left;
+	padding: 10px 13px;
+	text-decoration: none;
+	color: white;
+}
+.rmenu ul li{
+	width: 40%;
+}	
+.rmenu ul li a{
+	/*width: 30%;
+*/	float:left;
+	padding: 10px 11px;
+	text-decoration: none;
+	color: white;
+}	
